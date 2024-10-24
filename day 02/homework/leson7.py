@@ -1,6 +1,6 @@
 from turtle import *
 
-speed(1000)
+speed(100)
 
 width(7)
 
@@ -29,7 +29,7 @@ forward(70)
 left(90)
 forward(10)
 right(90)
-forward(70) # 1234
+forward(70) 
 right(90)
 forward(300)
 forward(10)

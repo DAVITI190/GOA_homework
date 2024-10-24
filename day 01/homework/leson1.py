@@ -1,5 +1,5 @@
-name = "davit"
-surname ="tugushi"
+name = ("daviti")
+surname = ("tugushi")
 age = 15
 
 height = 170
