@@ -1,3 +1,4 @@
+#1 davaleba
 
 num1 = int(input("შეიყვანეთ პირველი რიცხვი: "))
 num2 = int(input("შეიყვანეთ მეორე რიცხვი: "))
@@ -6,6 +7,7 @@ num3 = int(input("შეიყვანეთ მესამე რიცხვ
 print(int(num1) + " " + int(num2) + " " + int(num3))
 
 
+#2 davaleba
 
 #მომხმარებლის წონისა და სიმაღლის მოთხოვნა
 weight = float(input("შეიყვანეთ თქვენი წონა (კგ): "))
@@ -15,6 +17,7 @@ bmi = weight / (height ** 2)
 
 
 
+#3 davaleba
 
 print(5 > 4)
 print(5 > 2)
