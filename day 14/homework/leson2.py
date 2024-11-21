@@ -1,2 +1,2 @@
-for i in range(11, 31, 2) : # 7 davaleba
+for i in range(11, 31, 2) : 
     print(i)
