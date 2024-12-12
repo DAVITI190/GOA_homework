@@ -6,4 +6,4 @@ name1 = ("rati karelidze")
 
 surname1 = ("karelidze")
 
-print(name + surname)
+print(name + surname) 
